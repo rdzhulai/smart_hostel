@@ -1,2 +1,5 @@
 # smart_hostel
 This project presents a room full of various IoT devices in Cisco Packet Tracer.
+
+This project presents a room full of various IoT devices that can be of great help to both the residents and the owner. There is a plant watering system where the user can choose one of three modes. One of the modes is the AUTO mode, in which the system automatically waters the plants as needed. The system determines when the plants need to be watered, based on the measured humidity from the sensor. There is also a monitor that displays temperature and humidity for informational purposes. Residents can unlock doors and open windows using their smartphones. In addition, the IoT fan in the room can be turned on and off. This room also has two systems in case of fire or burglary. Residents can turn them on using their mobile device. When the first system is activated and the smoke sensor detects smoke in the room, the siren will sound, the fan will go to maximum power and the window will open. All this will continue until the smoke clears. If a burglar enters the room and the motion sensor detects his movement,
+the siren will sound.
